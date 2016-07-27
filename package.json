@@ -21,8 +21,9 @@
   "bugs": {
     "url": "https://github.com/rajendra75/studiong/issues"
   },
-  "homepage": "https://github.com/rajendra75/studiong#readme"
+  "homepage": "https://github.com/rajendra75/studiong#readme",
+
   "dependencies": {
-    "depend1": "rajendra75/depend1",
+    "depend1": "rajendra75/depend1"
   }
 }
