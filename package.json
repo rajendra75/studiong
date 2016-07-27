@@ -1,0 +1,22 @@
+{
+  "name": "studiomod1",
+  "version": "1.0.0",
+  "description": "\" A small step towards a giant leap for the Studio \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajendra75/studiong.git"
+  },
+  "keywords": [
+    "studio"
+  ],
+  "author": "Rajendra Kumar K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajendra75/studiong/issues"
+  },
+  "homepage": "https://github.com/rajendra75/studiong#readme"
+}
